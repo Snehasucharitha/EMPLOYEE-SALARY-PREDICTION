@@ -4,19 +4,19 @@ A sleek, interactive, and stylish ML-powered web app that predicts employee sala
 ## 🚀 Overview
 This app allows users to:
 
-✅ Predict employee salary in real time using a trained Random Forest model
+Predict employee salary in real time using a trained Random Forest model
 
-📍 Compare average salaries by U.S. state
+Compare average salaries by U.S. state
 
-📈 Visualize future salary growth based on custom growth assumptions
+Visualize future salary growth based on custom growth assumptions
 
-🎨 Explore an engaging UI featuring glowing neon accents, gradient backgrounds, and interactive charts
+Explore an engaging UI featuring glowing neon accents, gradient backgrounds, and interactive charts
 
 Perfect for students, data scientists, HR professionals, and anyone curious about tech job trends.
 
 ## 🎯 Key Features
 
-<img width="1060" height="732" alt="image" src="https://github.com/user-attachments/assets/db9bcb9b-ae00-400f-bf0d-6d57262ac6fb" />
+### <img width="1060" height="732" alt="image" src="https://github.com/user-attachments/assets/db9bcb9b-ae00-400f-bf0d-6d57262ac6fb" />
 
 
 
