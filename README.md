@@ -1,7 +1,7 @@
-###💼 Cyberpunk Salary Predictor
+### 💼 Cyberpunk Salary Predictor
 A sleek, interactive, and stylish ML-powered web app that predicts employee salaries, visualizes salary growth, and compares state-wise earnings — all in a cyberpunk-inspired UI built with Streamlit, Plotly, and scikit-learn.
 
-###🚀 Overview
+### 🚀 Overview
 This app allows users to:
 
 ✅ Predict employee salary in real time using a trained Random Forest model
